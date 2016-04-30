@@ -93,6 +93,7 @@ public class CameraActivity extends Activity {
          */
 
     }
+	//int a
     public Uri getOutputMediaFileUri(int type) {
         return Uri.fromFile(getOutputMediaFile(type));
     }
